@@ -2,7 +2,6 @@
 
 	console.log("some message - from JavaScript");
 
-	// Classes are bugged, so shutup
 	const	svgImage1 = document.querySelector('#svg-img1'),
 			svgImage2 = document.querySelector('#svg-img2'),
 			svgImage3 = document.querySelector('#svg-img3'),
